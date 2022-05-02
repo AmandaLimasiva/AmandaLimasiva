@@ -1,6 +1,6 @@
 😊 Oii, sou a Amanda!!!
  
-📚Estudando Desenvolvimento Web e Teste de Software<br>
+📚Estudando Desenvolvimento Web e Testes de Software.<br>
 👩‍💻Hoje trabalho com Suporte Técnico TI<br>
 🚀Formada em Análise e Desenvolvimento de Sistemas<br>
 
