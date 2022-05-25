@@ -1,7 +1,7 @@
 😊 Oii, sou a Amanda!!!
  
 📚Estudando Desenvolvimento Web e Testes de Software.<br>
-👩‍💻Hoje trabalho com QA<br>
+👩‍💻Hoje trabalho como Analista de QA<br>
 🚀Formada em Análise e Desenvolvimento de Sistemas<br>
 
  <div>
