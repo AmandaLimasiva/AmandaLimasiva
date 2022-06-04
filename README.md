@@ -1,8 +1,8 @@
-😊 Oii, sou a Amanda!!!
+😊 Oii, sou a Amanda!!! 👋
  
 📚Estudando Desenvolvimento Web e Testes de Software.<br>
-👩‍💻Hoje trabalho como Analista de QA<br>
-🚀Formada em Análise e Desenvolvimento de Sistemas<br>
+👩‍💻Hoje trabalho como Analista de QA.<br>
+🚀Formada em Análise e Desenvolvimento de Sistemas.<br>
 
  <div>
   <a href="https://github.com/AmandaLimasiva">
