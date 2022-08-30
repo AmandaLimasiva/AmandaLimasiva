@@ -1,9 +1,9 @@
 😊 Oii, sou a Amanda!!! 👋
  
-📚Estudando Testes de Software com o PSTQ e Desenvolvimento Web<br>
-✨Sendo mentorada pelo Júlio de Lima<br>
+📚Estudando Testes de Software com o PSTQ e Desenvolvimento Web.<br>
+✨Sendo mentorada pelo Júlio de Lima.<br>
 👩‍💻Hoje trabalho como Analista de Testes | QA.<br>
-🚀Formada em Análise e Desenvolvimento de Sistemas<br>
+🚀Formada em Análise e Desenvolvimento de Sistemas.<br>
 
  <div>
   <a href="https://github.com/AmandaLimasiva">
