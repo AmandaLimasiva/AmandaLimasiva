@@ -5,6 +5,10 @@
 👩‍💻Hoje trabalho como Analista de Testes | QA.<br>
 🚀Formada em Análise e Desenvolvimento de Sistemas.<br>
 
+div align="center"
+img src="https://desblogada.files.wordpress.co..." width="0px" /
+/div
+
  <div>
   <a href="https://github.com/AmandaLimasiva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmandaLimasiva&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
