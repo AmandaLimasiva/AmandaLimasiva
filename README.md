@@ -5,7 +5,12 @@
 👩‍💻Hoje trabalho como Analista de Testes | QA.<br>
 🚀Formada em Análise e Desenvolvimento de Sistemas.<br>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/51892828/196069990-ea5fab40-75cf-4fc6-a522-46c6cc1ac848.gif" width="600px"/> 
+</div>
 
+<br>
+<br>
 
  <div>
   <a href="https://github.com/AmandaLimasiva">
