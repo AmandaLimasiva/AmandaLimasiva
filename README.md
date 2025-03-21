@@ -4,6 +4,7 @@
   
 - 🚀Formada em Análise e Desenvolvimento de Sistemas.<br>
 - 📚Especialização em Engenharia de Qualidade de Software. <br>
+- 📚Graduanda em Licenciatura em Física <br>
 - ✨Fui mentorada pelo Júlio de Lima no Programa PTQS.<br>
 - 👩‍💻Hoje trabalho como Analista de Testes | QA.<br>
 
